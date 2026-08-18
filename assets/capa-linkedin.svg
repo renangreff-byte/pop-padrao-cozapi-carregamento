@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f4f8fb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="627" fill="url(#bg)"/>
+  <path d="M0 530 C230 455 405 565 605 520 C815 470 975 405 1200 445 L1200 627 L0 627 Z" fill="#2E9E38"/>
+  <path d="M0 565 C250 500 395 595 620 548 C840 500 990 465 1200 485 L1200 627 L0 627 Z" fill="#002855"/>
+  <g transform="translate(725 142)">
+    <rect x="0" y="65" width="360" height="225" rx="8" fill="#eef2f4" stroke="#8ca0b1" stroke-width="4"/>
+    <rect x="22" y="90" width="316" height="170" fill="#dfe6ea"/>
+    <g fill="#f2c94c" stroke="#c89c00" stroke-width="2">
+      <rect x="48" y="115" width="56" height="48" rx="8"/><rect x="108" y="115" width="56" height="48" rx="8"/><rect x="168" y="115" width="56" height="48" rx="8"/><rect x="228" y="115" width="56" height="48" rx="8"/>
+      <rect x="48" y="167" width="56" height="48" rx="8"/><rect x="108" y="167" width="56" height="48" rx="8"/><rect x="168" y="167" width="56" height="48" rx="8"/><rect x="228" y="167" width="56" height="48" rx="8"/>
+      <rect x="48" y="219" width="56" height="48" rx="8"/><rect x="108" y="219" width="56" height="48" rx="8"/><rect x="168" y="219" width="56" height="48" rx="8"/><rect x="228" y="219" width="56" height="48" rx="8"/>
+    </g>
+    <rect x="38" y="103" width="256" height="176" fill="none" stroke="#a8702a" stroke-width="10"/>
+    <line x1="38" y1="162" x2="294" y2="162" stroke="#d37d2a" stroke-width="10"/>
+    <line x1="38" y1="220" x2="294" y2="220" stroke="#d37d2a" stroke-width="10"/>
+    <rect x="-55" y="290" width="455" height="42" rx="8" fill="#252f38"/>
+    <circle cx="40" cy="345" r="35" fill="#1b1f23"/><circle cx="315" cy="345" r="35" fill="#1b1f23"/>
+  </g>
+  <text x="70" y="105" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#002855">COZAPI TRANSPORTES</text>
+  <text x="70" y="200" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="800" fill="#002855">POP</text>
+  <text x="70" y="277" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#2E9E38">CARREGAMENTO</text>
+  <text x="70" y="334" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#002855">Procedimento Operacional Padrão</text>
+  <text x="70" y="387" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#425466">Segurança • Padronização • Qualidade • Previsibilidade</text>
+  <rect x="70" y="430" width="560" height="5" rx="2" fill="#2E9E38"/>
+  <text x="70" y="485" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#425466">Do carregamento na doca à liberação do veículo.</text>
+  <text x="70" y="598" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#ffffff">Projeto institucional • Operações Logísticas • Cozapi Transportes</text>
+</svg>
