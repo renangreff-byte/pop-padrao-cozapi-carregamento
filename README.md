@@ -12,6 +12,16 @@
 ![Empresa](https://img.shields.io/badge/empresa-Cozapi%20Transportes-2E9E38)
 ![Portfólio](https://img.shields.io/badge/portf%C3%B3lio-LinkedIn-0A66C2)
 
+## Documento oficial
+
+A versão oficial e atualizada do **POP Padrão Cozapi — Carregamento de Baldes** possui **19 páginas** e reúne o fluxo operacional completo, referências visuais, critérios de acondicionamento, separação, peação, distribuição simétrica, visão superior do carregamento e checklist final de liberação.
+
+📄 **[Abrir o POP oficial em PDF](POP_CARREGAMENTO_BALDES.pdf)**
+
+> Arquivo oficial do projeto: `POP_CARREGAMENTO_BALDES.pdf`
+
+---
+
 ## Sobre o projeto
 
 Este projeto transforma um processo operacional de carregamento em um material institucional, visual e colaborativo para uso com embarcadores parceiros, equipes de doca e motoristas.
@@ -99,6 +109,21 @@ A saída do veículo ocorre somente após conferência conjunta do embarcador e 
 
 ---
 
+## Referências visuais da versão atual
+
+A versão atualizada do POP inclui, entre outras referências:
+
+- apoio visual dos princípios **Vida, Produto e Frota**;
+- matriz de distribuição de carga entre eixo e assoalho;
+- acondicionamento correto dos baldes;
+- peação e amarração em baú;
+- distribuição simétrica no assoalho;
+- referência de carroceria grade baixa;
+- **visão superior do carregamento**;
+- checklist final de liberação.
+
+---
+
 ## Checklist final
 
 - [ ] Posição dos baldes e itens
@@ -130,8 +155,9 @@ O projeto inclui texto completo de publicação e sugestão de carrossel para Li
 6. Separação de lotes
 7. Peação e amarração
 8. Distribuição simétrica
-9. Checklist final
-10. Ganhos operacionais
+9. Visão superior do carregamento
+10. Checklist final
+11. Ganhos operacionais
 
 ---
 
@@ -140,6 +166,7 @@ O projeto inclui texto completo de publicação e sugestão de carrossel para Li
 ```text
 pop-padrao-cozapi-carregamento/
 ├── README.md
+├── POP_CARREGAMENTO_BALDES.pdf
 ├── PADRAO_VISUAL_E_OPERACIONAL.md
 ├── CHECKLIST_FINAL.md
 ├── LINKEDIN.md
